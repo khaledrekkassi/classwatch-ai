@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Données de session
+session_data.json
+students_database.json
+
+# Screenshots
+screenshots/
+*.jpg
+*.jpeg
+*.png
+
+# YOLO models
+*.pt
+
+# Output
+output/
+*.html
+
+# macOS
+.DS_Store
