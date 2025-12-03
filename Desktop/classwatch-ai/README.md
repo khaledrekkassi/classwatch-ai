@@ -30,6 +30,8 @@ Le projet a été développé dans le cadre du Hackathon LLM 2025, avec pour obj
 
 La solution repose sur trois modules principaux :
 
+![Pipeline et Architecture](images/pipeline.jpeg)
+
 ### 3.1. Vision par Ordinateur
 - Détection d’objets via YOLO v8 (personnes, téléphones).  
 - Reconnaissance faciale via MediaPipe.  
@@ -204,8 +206,7 @@ Double-cliquez sur le nom dans la liste pour renommer. Le nom est sauvegardé de
 selected_camera_index = 0  # Essayer 1, 2, etc.
 ```
 
-### Erreur LLM
-
+### Erreur LLM  
 Vérifiez vos clés API dans le fichier `.env`.
 
 ### Performance lente  
