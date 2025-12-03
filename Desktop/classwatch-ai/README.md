@@ -1,7 +1,7 @@
 # 🎓 ClassWatch AI  
 ### Système Avancé de Monitoring d’Attention en Environnement Pédagogique  
 **Hackathon LLM – 24 décembre 2025**  
-**Équipe : Khalid Rekkassi · Ali Houaoui · Youcef Belhadef · Bilel Elkeddari**
+**Équipe : Khalid Rekkassi · Ali Houaoui · Youcef Belhadef · Bilel keddari**
 
 ---
 
